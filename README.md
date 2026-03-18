@@ -1,3 +1,9 @@
+## 📌 Submission Details
+- Name: Pratyaksh Gowda
+- CID:FIT/FEB26/FS11710
+- Project: Mini CRM (Client Lead Management System)
+
+
 # PowerFit Gym Website
 
 A professional gym website built using HTML, CSS, and JavaScript.
